@@ -1,0 +1,37 @@
+	body{
+		overflow-x:hidden;
+		padding-bottom:50px;
+		/* background: url('http://demos.themes.guide/boomadmin/img/1024/bg_suburb_1024.jpg') no-repeat center center fixed; */ 
+        -webkit-background-size: cover;
+	}
+	
+	#myform{
+		margin-top:100px;
+	}
+	
+	 #header{
+            width: 97%;
+            height:100px;
+            background-color:#286090;
+            color:white;
+            font-size:45px;
+            font-weight:bold;
+            text-align:center;
+            padding-top:25px;
+            padding-bottom:25px;
+            border-radius: 5px;
+            margin-left:20px;
+        }
+	
+
+	
+	#fontStyle{
+		color : white;
+		font-size : 20px;
+		font-family:Verdana;
+	
+	}
+	
+
+
+  
